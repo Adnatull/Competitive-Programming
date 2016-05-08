@@ -16,7 +16,7 @@ int main()
         for(i=0;i<test;i++)
             scanf("%d",&arr[i]);
 
-        int c=0;
+
         int a[test];
         for(i=0;i<test-1;i++){
             if(arr[i+1]>arr[i])
@@ -30,21 +30,16 @@ int main()
         else if( arr[test-1]<arr[0])
                 a[test-1]=0;
 
-        i=0;
-        int d=-1;
-        int p=0;
-        while(i>test-1){
-            d=a[i];
-            p=0;
-        for(;i<test;i++){
-            if(a[i]!=d){
-                break;
-                p=1;
-                }
-                }
-            if(p==1)
-            c++;
+        int c=0,d=0;
+        for(i=0;i<test-1;i++){
+            if(a[i]!=a[i+1]){
+                d=1;
             }
+            else
+                d=0;
+            if(d==1)
+                c++;
+        }
         if(a[test-1]!=a[0])
             c++;
         printf("%d\n",c);
