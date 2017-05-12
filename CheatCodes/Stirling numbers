@@ -1,0 +1,10 @@
+Second Kind:
+
+Total ways to partition a set of n things into K nonempty subsets:
+
+S(n, k) = k* S(n-1, k) + S(n-1, k-1)
+
+Parity:
+
+{n,m}=!((n-m)&((m-1)/2))
+
