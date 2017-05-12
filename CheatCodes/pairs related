@@ -8,3 +8,5 @@ else if k=even
 
 Total pairs among n people:
   pairs = n*(n-1)/2;
+
+
