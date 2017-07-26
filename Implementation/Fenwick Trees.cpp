@@ -1,3 +1,5 @@
+//SPOJ problem link:: http://www.spoj.com/problems/FENTREE/
+
 #include <bits/stdc++.h>
 
 using namespace std;
