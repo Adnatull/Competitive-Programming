@@ -1,4 +1,4 @@
-Total pairs where sum of each pair is not not greater than k: (Pairs have to be positive)
+Total pairs where sum of each pair is not greater than k: (Pairs have to be positive)
 
 if k=odd
   then pairs = (k-1)/2*(k-1)/2;
