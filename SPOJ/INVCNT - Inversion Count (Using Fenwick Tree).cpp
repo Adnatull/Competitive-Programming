@@ -1,12 +1,11 @@
 /*
     Fenwick Tree.
-    The solution approach is pretty simple. Fenwick tree calculates total sum from 0 to x & inversions are total small numbers after the  x(index).
-    But I calculated inversions as total bigger number before the current index.I used vector to store pair  & used pair to store the value
-    and its index; Then I sorted the vector in descending order. After that I run a loop through the vector. Each time
-    (suppose first part of pair is value & second part of pair is index) I used getsum function to find total number of bigger values till
-    that index-1 location & added that to total sum.. Then added 1 to that index using update function.
-
-
+    The solution approach is pretty simple. Fenwick tree calculates total sum from 0 to x & inversions are total small numbers 
+    after the  x(index).    But I calculated inversions as total bigger number before the current index.I used vector to store 
+    pair  & used pair to store the value    and its index; Then I sorted the vector in descending order. After that I run a loop through the vector. Each time
+    (suppose first part of pair is value & second part of pair is index) I used getsum function to find total number of bigger 
+    values till that index-1 location & added that to total sum.. Then added 1 to that index using update function.
+    
 */
 
 #include <bits/stdc++.h>
