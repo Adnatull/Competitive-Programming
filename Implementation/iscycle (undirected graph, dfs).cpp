@@ -1,5 +1,16 @@
 #include <bits/stdc++.h>
 
+
+/*
+input
+
+4 3
+1 2
+2 3
+2 4
+
+1
+*/
 using namespace std;
 
 vector <int> graph[123456];
