@@ -1,7 +1,6 @@
 vector < int > lst;
 
 void topsort(int source, bool visited[], vector < int> graph[]) { 
-	if(visited[source]) return;
 	
 	visited[source] = true;
 	
