@@ -2,7 +2,7 @@
 
 
 
-Welcome to the Competitive Programming Wiki wiki! I will be trying to upload my codes here.
+Welcome to the Competitive Programming wiki! I will be trying to upload my codes here.
 
 My Profiles:
 
