@@ -4,8 +4,7 @@
 
 Welcome to the Competitive Programming wiki! I will be trying to upload my codes here.
 
-Link to OJ Profiles:
-[StopsTalk](https://www.stopstalk.com/user/profile/Adnatull) &nbsp; &nbsp;
+Link to OJ Profiles: &nbsp;
 [UVA](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorstats&userid=757063) &nbsp; &nbsp; [Uhunt](http://uhunt.onlinejudge.org/id/757063) &nbsp; &nbsp;  [LightOJ](http://lightoj.com/volume_userstat.php?user_id=25822)  &nbsp; &nbsp;
 [SPOJ](http://www.spoj.com/users/zip_light) &nbsp; &nbsp; [CodeForces](http://codeforces.com/profile/bass.exe)  &nbsp; &nbsp;  [HackerRank](https://www.hackerrank.com/Hibari)
 &nbsp; &nbsp; [CSAcademy](https://csacademy.com/user/zip_light) &nbsp; &nbsp;
