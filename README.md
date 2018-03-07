@@ -4,17 +4,16 @@
 
 Welcome to the Competitive Programming wiki! I will be trying to upload my codes here.
 
-My Profiles:
+Link to OJ Profiles:
 
 [UVA](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorstats&userid=757063) &nbsp; &nbsp; [Uhunt](http://uhunt.onlinejudge.org/id/757063) &nbsp; &nbsp;  [LightOJ](http://lightoj.com/volume_userstat.php?user_id=25822)  &nbsp; &nbsp;  [CodeForces](http://codeforces.com/profile/bass.exe)  &nbsp; &nbsp;  [HackerRank](https://www.hackerrank.com/Hibari)
 
-UVA: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorstats&userid=757063 
-Uhunt: http://uhunt.onlinejudge.org/id/757063
-
-LightOj: http://lightoj.com/volume_userstat.php?user_id=25822
-
-Codeforces: http://codeforces.com/profile/bass.exe
-
-HackerRank: https://www.hackerrank.com/Hibari
-
-URI Online Judge: https://www.urionlinejudge.com.br/judge/en/users/profile/79619
+Link to Solutions:
+[UVA-Solutions in Python3](https://github.com/Adnatull/Competitive-Programming/tree/master/UVA%20Online%20Judge/Python) 
+[UVA-Solutions in C++](https://github.com/Adnatull/Competitive-Programming/tree/master/UVA%20Online%20Judge/CPP)
+[UVA-Solutions in JAVA](https://github.com/Adnatull/Competitive-Programming/tree/master/UVA%20Online%20Judge/JAVA)
+[LightOJ-Solutions in C++](https://github.com/Adnatull/Competitive-Programming/tree/master/Light%20OJ/CPP)
+[LightOJ-Solutions in JAVA](https://github.com/Adnatull/Competitive-Programming/tree/master/Light%20OJ/JAVA)
+[SPOJ-Solutions in C++](https://github.com/Adnatull/Competitive-Programming/tree/master/SPOJ)
+[CSAcademy](https://github.com/Adnatull/Competitive-Programming/tree/master/CSAcademy)
+[Programming Contest Templates](https://github.com/Adnatull/Competitive-Programming/tree/master/Contest%20Template)
